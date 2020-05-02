@@ -1,0 +1,69 @@
+.banner{
+position:relative;
+
+background-image:url("../images/s.jpg");
+background-size:cover;
+padding-top:300px;
+background-attachment:scroll;
+background-repeat:no-repeat;
+padding-bottom:300px;
+background-position:center;
+
+
+
+}
+.banner-content{
+position:relative;
+z-index:1;
+}
+.banner-header{
+color:red;
+font-size:4rem;
+}
+.banner-subheading{
+color:powderblue;
+font-size:2rem;
+}
+.subscription{
+background-image:url("../images/j.jpg");
+
+
+background-repeat:no-repeat;
+position:relative;
+padding-top:100px;
+padding-bottom:100px;
+background-size:cover;
+
+
+}
+.icon{
+	 background-color: gray;
+	   border-radius: 50%;
+	    height: 30px;
+		 width: 30px;
+}
+.icon-custom{
+  background-color: gray;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    margin: auto 3px;
+    width: 30px;
+    font-size: 15px;
+    text-align: center;
+
+}
+div.relative {
+  position: relative;
+ 
+} 
+
+div.absolute {
+  position: absolute;
+ left:200px;
+ 
+
+
+}
